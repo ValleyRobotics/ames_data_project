@@ -35,7 +35,8 @@ from numpy import (mean,
 #from numpy import std
 from sklearn.datasets import make_classification
 from sklearn.tree import export_graphviz
-from functions.functions import *
+
+
 
 # set display options
 pd.set_option('display.max_columns', None)
